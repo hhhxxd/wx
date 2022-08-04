@@ -1,0 +1,12 @@
+<view class=" header">
+    <input type="text" class="header-input" placeholder="请输入快递单号" />
+    <view class="header-btn">
+        <view class="quert-img">
+            <image class="quert-img-1" src="../query/query-img/scancode-icon-scancode-icon.png"></image>
+        </view>
+    </view>
+</view>
+<view class="quert-main"> 
+     <image class="quert-main-img" src="../query/query-img/big-img-big-img.png"></image>
+     <view class="quert-main-text">抱歉，还没有查询到您的快递哦~~</view>
+</view>

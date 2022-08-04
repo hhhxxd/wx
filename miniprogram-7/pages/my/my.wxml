@@ -1,0 +1,53 @@
+<!--pages/my/my.wxml-->
+<view class="header-my">
+
+<view class="banner-my-img" >
+<image class="banner-my-img" src="../index/img/portrait-img-portrait-img.png"></image>
+</view>
+<view class="banner-my-text">
+<view>慕慕</view>
+<view>你还没有一个个性签名</view>
+</view>
+<view class="banner-my-1">></view>
+</view>
+
+<view class="main-my">
+<view class="main-my-list">
+<view class="my-img">
+<image class="my-img-1" src="../img-my/phone-icon-phone-icon.png"></image>
+</view>
+<view class="my-text">绑定手机</view>
+</view>
+<view class="main-my-list">
+<view class="my-img">
+<image class="my-img-1" src="../img-my/realname-icon-realname-icon.png"></image>
+</view>
+<view class="my-text">我的实名</view>
+</view>
+<view class="main-my-list">
+<view class="my-img">
+<image class="my-img-1" src="../img-my/voucher-icon-voucher-icon.png" ></image>
+</view>
+<view class="my-text">我的抵用卷</view>
+</view>
+<view class="main-my-list">
+<view class="my-img">
+<image class="my-img-1" src="../img-my/address-icon-address-icon.png"></image>
+</view>
+<view class="my-text">常用地址</view>
+</view>
+<view class="main-my-list">
+<view class="my-img">
+<image class="my-img-1" src="../img-my/news-icon-news-icon.png"></image>
+</view>
+<view class="my-text">消息中心</view>
+</view>
+<view class="main-my-list">
+<view class="my-img">
+<image class="my-img-1" src="../img-my/service-icon-service-icon.png"></image>
+</view>
+<view class="my-text">客服中心</view>
+</view>
+
+</view>
+ 

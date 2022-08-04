@@ -1,0 +1,28 @@
+<!--index.wxml-->
+<view class="header">
+  <image class="content-item-image" src="../index/img/banner-banner.png"></image>
+
+
+</view>
+<view class="main">
+  <text>最常用快递员</text>
+  <!-- 常用快递员 -->
+  <view class="main-1">
+    <view class="main-img">
+    <image class="main-img-1" src="../index/img/portrait-img-portrait-img.png"></image>
+    
+  </view>
+    <view class='main-text' >
+      <view class="main-text-2">
+        <view class="main-text-1"> mumu</view>
+        <view class="main-text-1">139***11111</view>
+      </view>
+      <view class="main-text-2">
+        <view class="main-text-1">急速快递</view>
+        <view class="main-text-1">深圳机场</view>
+      </view>
+    </view>
+    <button class="main-btn" style="width: 180rpx;">一件寄出</button>
+  </view>
+  <view></view>
+</view>

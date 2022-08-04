@@ -1,0 +1,45 @@
+<!--pages/send/send.wxml-->
+<view class="header-send">
+
+<view class="banner-send-img" >
+<image class="banner-send-img" src="../index/img/portrait-img-portrait-img.png"></image>
+</view>
+<view class="banner-send-text">
+<view>慕慕</view>
+<view>你还没有一个个性签名</view>
+</view>
+<view class="banner-send-1">></view>
+</view>
+<view class="main-send">
+<view class="main-send-b"> </view>
+<view class="main-send-text">发件人信息</view>
+<view class="main-send-img">
+<image class="main-send-img-1" src="../send/send-img/people-icon-tool-gerenliebiao.png"></image>
+</view>
+</view>
+<view class="main-send">
+<view class="main-send-b"> </view>
+<view class="main-send-text">收件人信息</view>
+<view class="main-send-img">
+<image class="main-send-img-1" src="../send/send-img/people-icon-tool-gerenliebiao.png"></image>
+</view>
+</view>
+
+<view class="send-btn">下一步</view>
+<view class="send-end">
+<view class="send-end-img">
+<image class="send-end-img-1"></image>
+</view>
+<view class="send-end-text">守时守约</view>
+<view class="send-end-1">|</view>
+<view class="send-end-img">
+<image class="send-end-img-1"></image>
+</view>
+<view class="send-end-text">丢损必赔</view>
+<view>|</view>
+<view class="send-end-img">
+<image class="send-end-img-1"></image>
+</view>
+<view class="send-end-text">急速官方保证</view>
+
+</view>

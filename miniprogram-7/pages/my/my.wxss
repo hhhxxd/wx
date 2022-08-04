@@ -1,0 +1,70 @@
+page{
+  background-color: #ededed;
+  padding: 0;
+  margin: 0;
+}
+
+.header-my{
+  display: flex;
+    height: 150rpx;
+    background-color: #35BD00;
+    padding-top: 96rpx;
+   padding-left: 96rpx;
+}
+.banner-my-img{
+    width: 92rpx;
+    height: 92rpx;
+    /* background-color: black; */
+  border-radius: 50%;
+  /* margin-left: 200rpx; */
+  margin-right: 20rpx;
+  
+
+}
+
+.banner-my-text{
+  /* background-color: blue; */
+  font-size: 28rpx;
+}
+.banner-my-1{
+  font-size: 60rpx;
+  line-height: 96rpx;
+  margin-left:20rpx ;
+  color: aliceblue;
+}
+.main-my{
+   display: flex;
+   flex-direction: column;
+   background-color: #ffffff;
+  margin-top: 42rpx;
+
+  
+}
+.main-my-list{
+  display: flex;
+    height: 60rpx;
+    border-top: 1rpx solid #ededed;
+    border-bottom:1rpx solid #ededed; 
+    padding-top:20rpx ;
+    padding-bottom:20rpx ;
+    padding-left:64rpx ;
+    font-size: 14px;
+   
+
+}
+.my-img{
+  line-height: 108rpx;
+width: 64rpx;
+height: 64rpx;
+}
+.my-img-1{
+  height: 100%;
+  width: 100%;
+  /* background-color: thistle; */
+}
+.my-text{
+  line-height: 60rpx;
+  margin-left: 75rpx;
+  color: #626161;
+  font-family: Helvetica;
+}
